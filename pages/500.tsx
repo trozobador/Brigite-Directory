@@ -8,7 +8,7 @@ export default function Custom500() {
         props={{
           ...defaultMetaProps,
           title: '500 | MongoDB Starter Kit',
-          ogUrl: 'https://mongodb.vercel.app/500'
+          ogUrl: 'https://brigite-directory.vercel.app/500'
         }}
       />
       <h1 className="text-2xl font-light text-white">

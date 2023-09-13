@@ -8,7 +8,7 @@ export default function Custom404() {
         props={{
           ...defaultMetaProps,
           title: '404 | MongoDB Starter Kit',
-          ogUrl: 'https://mongodb.vercel.app/404'
+          ogUrl: 'https://brigite-directory.vercel.app/404'
         }}
       />
       <h1 className="text-2xl font-light text-white">

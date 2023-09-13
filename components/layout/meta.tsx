@@ -5,7 +5,7 @@ export const defaultMetaProps = {
   description:
     'MongoDB Starter Kit built with Next.js, Vercel, and MongoDB Atlas.',
   ogImage: `https://assets.vercel.com/image/upload/v1654626375/twitter-cards/mongo-integration-starter.png`,
-  ogUrl: 'https://mongodb.vercel.app'
+  ogUrl: 'https://brigite-directory.vercel.app'
 };
 
 export interface MetaProps {
